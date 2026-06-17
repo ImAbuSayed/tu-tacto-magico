@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-tacto-magico/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tu tacto mágico](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-magico/) |
+| **Get License** | [Get a Licensing Quote for Tu tacto mágico](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-magico/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby tú tienes ese tacto mágico que me domina
+> Caminando por la disco luces demasiado fina
+> Tu mirada me provoca y la noche no termina
+> Ven y dame de tu fuego que mi alma se fascina
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
